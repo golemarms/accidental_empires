@@ -1,4 +1,17 @@
-# Accidental Empires/ Triumph of the nerds
+---
+title: Accidental Empires by Robert X. Cringely
+description: Links to book chapters
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7B0CGQKM9C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+        gtag('config', 'G-7B0CGQKM9C');
+</script>
 
 ## Book Chapters
 
