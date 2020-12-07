@@ -46,7 +46,7 @@
 
 ## Triumph of the Nerds
 
-[Part 1 (Youtube)](https://www.youtube.com/watch?v=3QLuPg_UAKw)
+[Part 1 (Youtube)](https://www.youtube.com/watch?v=rrC722gKCIc)
 
 [Part 2 (Youtube)](https://www.youtube.com/watch?v=ySqEvijSDGE)
 
